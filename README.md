@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kalpani Diwyanjali</h1>
 
 
-<h3 align="center">A passionate Quality Assurance Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Quality Assurance Engineer/ Mobile Developer from Sri Lanka</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpani99&label=Profile%20views&color=0e75b6&style=flat" alt="kalpani99" /> </p>
